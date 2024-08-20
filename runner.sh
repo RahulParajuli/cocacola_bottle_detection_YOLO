@@ -1,0 +1,1 @@
+cd AiEngine && uvicorn main:app --reload

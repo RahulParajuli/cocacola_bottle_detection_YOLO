@@ -1,0 +1,1 @@
+python3 yolotrain.py && yolo task=detect mode=train model=model_train/yoloUtils/yolov8s.pt data=Dataset.yaml epochs=10 imgsz=600 batch=8 project=training_results name=coke

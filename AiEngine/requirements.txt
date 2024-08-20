@@ -1,0 +1,12 @@
+fastapi
+numpy
+matplotlib
+Pillow
+uvicorn
+python-multipart
+jsonschema
+requests
+PyYAML
+ultralytics
+tensorflow
+opencv-python
