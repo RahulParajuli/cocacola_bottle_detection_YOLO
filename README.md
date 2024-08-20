@@ -1,7 +1,7 @@
 # Coke Project
 ## Description
 
-This is a project to create AI Engine for coke bottle detection for a company called Coke.
+This is a project to create AI Engine for coke bottle detection.
 
 ## Table of Contents
 
